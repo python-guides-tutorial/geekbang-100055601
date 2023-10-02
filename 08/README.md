@@ -2,10 +2,14 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Tue Sep 26 22:33:54 CST 2023` |
+`Mon Oct  2 13:49:28 CST 2023` |
 
 <img src="./01.png" />
 
 
 * `find_element`: 可能有多个元素，返回第一个
-* `find_element`: 返回一个集合
+* `find_elements`: 返回一个集合
+
+## Ref
+
+* <https://selenium-python.readthedocs.io/locating-elements.html>
