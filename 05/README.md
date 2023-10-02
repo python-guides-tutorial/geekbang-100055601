@@ -2,10 +2,4 @@
 
 |本期版本|上期版本
 |:---:|:---:
-`Mon Sep 25 17:41:40 CST 2023` |
-
-
-```bash
-pip install selenium
-brew install pycharm-ce
-```
+`Mon Oct  2 11:29:36 CST 2023` |
